@@ -9,4 +9,89 @@
         "pingYin": "wǒ",
         "character": "我"
     },
+    {
+        "imageUrl": "https://www.orchidenglish.com/wp-content/uploads/2016/06/good.jpg",
+        "pingYin": "hǎo",
+        "character": "好"
+    },
+    {
+        "imageUrl": "https://image.spreadshirtmedia.com/image-server/v1/products/T1459A839PA3861PT28D11776376W10000H6747/views/1,width=550,height=550,appearanceId=839,backgroundColor=F2F2F2/hello-im-sticker.jpg",
+        "pingYin": "jiào",
+        "character": "叫"
+    },
+    {
+        "imageUrl": "https://www.lifeprint.com/asl101/signjpegs/w/what.h1.jpg",
+        "pingYin": "shénme",
+        "character": "什么"
+    },
+    {
+        "imageUrl": "https://blog.kingscollege.qld.edu.au/hs-fs/hubfs/Blogs/Blog%20Headers/whats_in_a_name.jpg?width=800&height=533&name=whats_in_a_name.jpg",
+        "pingYin": "míngzi",
+        "character": "名字"
+    },
+    {
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV37X7bqlaO8TY1zle_-RHv-XacEiltwyF9g&s",
+        "pingYin": "xìng",
+        "character": "姓"
+    },
+    {
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS50JRXrMgrmr1xZd401Nzyl2wncu4jbJpg_A&s",
+        "pingYin": "tā",
+        "character": "他"
+    },
+    {
+        "imageUrl": "https://static.vecteezy.com/system/resources/previews/026/306/683/non_2x/woman-stick-figure-icon-female-girl-lady-human-person-toilet-bathroom-gender-sign-symbol-shape-artwork-graphic-illustration-clipart-cricut-vector.jpg",
+        "pingYin": "tā",
+        "character": "她"
+    },  
+    {
+        "imageUrl": "https://media.istockphoto.com/id/516586705/photo/mailman-walking-along-street-delivering-letters.jpg?s=612x612&w=0&k=20&c=NlIEXqnBFa2sK9a2tSTb9DJl_WlO06OCGljCEubGh68=",
+        "pingYin": "yóudìyuán",
+        "character": "邮递员"
+    },
+    {
+        "imageUrl": "https://poll2know.com/img/polls_photos/thumb/1699610300576.jpg",
+        "pingYin": "qǐngwèn",
+        "character": "请问"
+    },
+    {
+        "imageUrl": "https://images.stockcake.com/public/5/8/f/58f785fb-e5d3-47c9-9264-10c000a23ddd_large/elegant-man-outdoors-stockcake.jpg",
+        "pingYin": "xiānsheng",
+        "character": "先生"
+    },
+    {
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeel5O0jnCCY9hTrPzZkocOyvAhUlWN4O2rg&s",
+        "pingYin": "ma",
+        "character": "吗"
+    },
+    {
+        "imageUrl": "https://media.tenor.com/Or_pMDyHdygAAAAe/no-no-no-nope.png",
+        "pingYin": "bù",
+        "character": "不"
+    },
+    {
+        "imageUrl": "https://assets.ltkcontent.com/images/43034/of-vs-for-proper-grammar_7abbbb2796.jpg",
+        "pingYin": "de",
+        "character": "的"
+    },
+    {
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg1eT2H1FHD0mujWtVcTkike3oF4To5sRDlw&s",
+        "pingYin": "kuàidì",
+        "character": "快递"
+    },
+    {
+        "imageUrl": "https://www.shutterstock.com/image-vector/man-suit-getting-down-on-600nw-2222103453.jpg",
+        "pingYin": "duìbuqǐ",
+        "character": "对不起"
+    },
+    {
+        "imageUrl": "https://static.vecteezy.com/system/resources/thumbnails/047/269/681/small_2x/thumb-up-emoji-isolated-in-transparent-background-png.png",
+        "pingYin": "méiguānxi",
+        "character": "没关系"
+    },
+    {
+        "imageUrl": "https://static.vecteezy.com/system/resources/previews/007/226/589/non_2x/waving-hand-gesture-emoji-glyph-icon-silhouette-symbol-hello-hi-bye-goodbye-hand-gesturing-greeting-palm-negative-space-isolated-illustration-vector.jpg ",
+        "pingYin": "zàijiàn",
+        "character": "再见"
+    }
 ]
