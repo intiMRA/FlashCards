@@ -90,8 +90,193 @@
         "character": "没关系"
     },
     {
-        "imageUrl": "https://static.vecteezy.com/system/resources/previews/007/226/589/non_2x/waving-hand-gesture-emoji-glyph-icon-silhouette-symbol-hello-hi-bye-goodbye-hand-gesturing-greeting-palm-negative-space-isolated-illustration-vector.jpg ",
+        "imageUrl": "https://static.vecteezy.com/system/resources/previews/007/226/589/non_2x/waving-hand-gesture-emoji-glyph-icon-silhouette-symbol-hello-hi-bye-goodbye-hand-gesturing-greeting-palm-negative-space-isolated-illustration-vector.jpg",
         "pingYin": "zàijiàn",
         "character": "再见"
+    },
+    {
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4dSB51LpGEodwxnBFZ-eqFb3azl0od6XXOQ&s",
+        "pingYin": "xiǎojie",
+        "character": "小姐"
+    },
+    {
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8gn-dJ_KvxwyFDQuxhO98DjHf9MlwuYzbmA&s",
+        "pingYin": "nǚshì",
+        "character": "女士"
+    },
+    {
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzcf_aWeQarKFcmfAVyKrZ3pDz94_m_8qTZw&s",
+        "pingYin": "lǎoshī",
+        "character": "老师"
+    },
+    {
+        "imageUrl": "https://findado.osteopathic.org/wp-content/uploads/2021/08/GettyImages-1214206519-1024x614.jpg",
+        "pingYin": "dàifu",
+        "character": "大夫"
+    },
+    {
+        "imageUrl": "https://stickershop.nz/wp-content/uploads/nike_logo_black.png",
+        "pingYin": "zuò",
+        "character": "做"
+    },
+    {
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF3jxrONEiqnMJIPY1bMVCZsjWI5bM2Kxp-w&s",
+        "pingYin": "gōngzuò",
+        "character": "工作"
+    },
+    {
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAWm8v4I3coTm3vAug6jz4s86KAncMysWwHA&s",
+        "pingYin": "sījī",
+        "character": "司机"
+    },
+    {
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOMpC_1E41IzfxdcQ91psHE-y8A9dxIkoAVg&s",
+        "pingYin": "máng",
+        "character": "忙"
+    },
+    {
+        "imageUrl": "https://cdn-crossing.cw.com.tw/article/202207/article-62bec92b21e73.jpg",
+        "pingYin": "jìzhě",
+        "character": "记者"
+    },
+    {
+        "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/e8bb5931803a1cfb281139503a59e9115df1478d0fbb1c0c81514dfcaaa8b527?o=zbimg&oloc=se",
+        "pingYin": "yīshēng",
+        "character": "医生"
+    },
+    {
+        "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article6859792.ece/ALTERNATES/s1200/Very-logo.png",
+        "pingYin": "fēicháng",
+        "character": "非常"
+    },
+    {
+        "imageUrl": "https://img.ltn.com.tw/Upload/art/page/800/2024/04/16/41.jpg",
+        "pingYin": "jiātíngzhǔfù",
+        "character": "家庭主妇"
+    },
+    {
+        "imageUrl": "https://cw1.tw/CW/images/article/201609/article-57ece914a2aa3.jpg",
+        "pingYin": "jiātíng",
+        "character": "家庭"
+    },
+    {
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoD5OrpHGImXLc7-SUFrMyxwsNrQIuUWYRxg&s",
+        "pingYin": "zhǔfù",
+        "character": "主妇"
+    },
+    {
+        "imageUrl": "data:image/jpeg;base64,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",
+        "pingYin": "zuì",
+        "character": "最"
+    },
+    {
+        "imageUrl": "https://www.imagelato.com/images/article-cover-hire-and-manage-waiters-b909fe02-1024w.jpg",
+        "pingYin": "fúwùyuán",
+        "character": "服务员"
+    },
+    {
+        "imageUrl": "https://cdn.statefoodsafety.com/blog/2014/11/fs_03_08_server_customers_ribs_salmon_foodSM-compressor.jpg",
+        "pingYin": "fúwù",
+        "character": "服务"
+    },
+    {
+        "imageUrl": "https://static5.depositphotos.com/1006571/503/v/950/depositphotos_5033287-stock-illustration-secretary-in-the-office.jpg",
+        "pingYin": "mìshū",
+        "character": "秘书"
+    },
+    {
+        "imageUrl": "https://www.escoffier.edu/wp-content/uploads/2022/03/Smiling-male-chef-with-white-coat-and-hat-768.jpg",
+        "pingYin": "chúshī",
+        "character": "厨师"
+    },
+    {
+        "imageUrl": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813/o0DAQD5bW5eIKSA9Jx6k7A8PgAfniHgAAd8NSC~tplv-dy-aweme-images:q75.webp?biz_tag=aweme_images&from=327834062&lk3s=138a59ce&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1750150800&x-signature=hKPgF1xNpriOKWCgm0eI5DZ7sHc%3D",
+        "pingYin": "lèi",
+        "character": "累"
+    },
+    {
+        "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*WYbCj-6HZGEa3kLPJEiI7Q.jpeg",
+        "pingYin": "lǜshī",
+        "character": "律师"
+    },
+    {
+        "imageUrl": "https://i2.sinaimg.cn/cj/2015/0206/U12164P31DT20150206134117.jpg",
+        "pingYin": "xīnkǔ",
+        "character": "辛苦"
+    },
+    {
+        "imageUrl": "https://img.olympics.com/images/image/private/t_s_16_9_g_auto/t_s_w960/f_auto/primary/otfjmm7ljvhmeo4ruv7m",
+        "pingYin": "yùndòngyuán",
+        "character": "运动员"
+    },
+    {
+        "imageUrl": "https://cdntwrunning.biji.co/a5b88e691f14d958c31eceb691bcb76e149e9677a5989fd342ae44213df68868.png",
+        "pingYin": "yùndòng",
+        "character": "运动"
+    },
+    {
+        "imageUrl": "https://www.insidehighered.com/sites/default/files/2024-02/GettyImages-1072191138.jpg",
+        "pingYin": "xuésheng",
+        "character": "学生"
+    },
+    {
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXwHxGoegj-wTRFnzlt0iuPtcuFVHtB6lBvg&s",
+        "pingYin": "kuàilè",
+        "character": "快乐"
+    },
+    {
+        "imageUrl": "data:image/jpeg;base64,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",
+        "pingYin": "xǐhuan",
+        "character": "喜欢"
+    },
+    {
+        "imageUrl": "https://soccernovo.com/wp-content/uploads/2023/09/soccer-and-basketball.png",
+        "pingYin": "dǎ",
+        "character": "打"
+    },
+    {
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0575/3782/2890/files/u5651242815_Basketball_Basics_--ar_169_--v_6.1_3_1f1f8d42-b0b2-4801-bb04-724ceddc32f5.png?v=1725263239",
+        "pingYin": "lánqiú",
+        "character": "篮球"
+    },
+    {
+        "imageUrl": "https://thumb.ac-illust.com/ad/adb0a18b9356d14411048e3af355d7b8_t.jpeg",
+        "pingYin": "chànggē",
+        "character": "唱歌"
+    },
+    {
+        "imageUrl": "https://media.istockphoto.com/id/1368003077/vector/guy-surfing-on-the-phone-surf-the-internet-the-concept-of-fast-internet-new-technologies.jpg?s=612x612&w=0&k=20&c=kqwUA7gp_B80zCu4BeKzBLyIQ2eFwiXD5-js8Gs-94M=",
+        "pingYin": "shàngwǎng",
+        "character": "上网"
+    },
+    {
+        "imageUrl": "https://thumbs.dreamstime.com/b/recruitment-hand-point-finger-picking-business-person-candidate-people-group-flat-vector-illustration-82678859.jpg?w=768",
+        "pingYin": "tāmen",
+        "character": "他们"
+    },
+    {
+        "imageUrl": "https://cdn5.vectorstock.com/i/1000x1000/98/09/all-word-on-white-background-vector-42349809.jpg",
+        "pingYin": "dōu",
+        "character": "都"
+    },
+    {
+        "imageUrl": "https://www.foodnext.net/dispPageBox/getFile/GetImg.aspx?FileLocation=%2FPJ-FOODNEXT%2FFiles%2F&FileName=photo-05475-i.jpg",
+        "pingYin": "chī",
+        "character": "吃"
+    },
+    {
+        "imageUrl": "https://media.istockphoto.com/id/1829241109/photo/enjoying-a-brunch-together.jpg?s=612x612&w=0&k=20&c=9awLLRMBLeiYsrXrkgzkoscVU_3RoVwl_HA-OT-srjQ=",
+        "pingYin": "cài",
+        "character": "菜"
+    },
+    {
+        "imageUrl": "https://static.vecteezy.com/system/resources/previews/013/474/112/non_2x/cartoon-illustration-of-kid-sleeping-vector.jpg",
+        "pingYin": "shuìjiào",
+        "character": "睡觉"
+    },
+    {
+        "imageUrl": "https://static.vecteezy.com/system/resources/previews/013/474/112/non_2x/cartoon-illustration-of-kid-sleeping-vector.jpg",
+        "pingYin": "shuìjiào",
+        "character": "睡觉"
     }
 ]
