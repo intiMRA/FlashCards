@@ -278,5 +278,20 @@
         "imageUrl": "https://static.vecteezy.com/system/resources/previews/013/474/112/non_2x/cartoon-illustration-of-kid-sleeping-vector.jpg",
         "pingYin": "shuìjiào",
         "character": "睡觉"
-    }
+    },
+    {
+        "imageUrl": "https://www.sandiegofamily.com/images/article-organizer/yr-2022/05_May_22/dad_involvement-2497.jpg",
+        "pingYin": "bàba",
+        "character": "爸爸"
+    },
+    {
+        "imageUrl": "https://static.independent.co.uk/2021/02/25/15/19124236-e7348da3-7bcd-475b-afa8-b593262901e0.jpg?quality=75&width=1250&crop=3%3A2%2Csmart&auto=webp",
+        "pingYin": "māma",
+        "character": "妈妈"
+    },
+    {
+        "imageUrl": "https://images.pexels.com/photos/2286895/pexels-photo-2286895.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "pingYin": "piàoliang",
+        "character": "漂亮"
+    },
 ]

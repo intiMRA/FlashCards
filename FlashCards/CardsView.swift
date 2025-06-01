@@ -45,6 +45,9 @@ struct CardsView: View {
             }
         }
         .padding()
+        .task {
+            await viewModel.fetch()
+        }
     }
 }
 

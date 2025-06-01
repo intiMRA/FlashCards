@@ -7,8 +7,8 @@
 
 import Foundation
 
-struct FlashCardModel {
+struct FlashCardModel: Codable {
     let imageUrl: String
-    let pingYing: String
+    let pingYin: String
     let character: String
 }
